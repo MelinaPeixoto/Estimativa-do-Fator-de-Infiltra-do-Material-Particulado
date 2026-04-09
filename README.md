@@ -50,4 +50,4 @@ notebooks/03-modelo_lowess_notebook.ipynb
 
 
 # Licença
-Este projeto está licenciado sob a [MIT License / CC-BY 4.0 / Outra] - veja o arquivo LICENSE para detalhes.
+Este projeto está licenciado sob a Creative Commons Legal Code / CC0 1.0 Universal] - veja o arquivo LICENSE para detalhes.
